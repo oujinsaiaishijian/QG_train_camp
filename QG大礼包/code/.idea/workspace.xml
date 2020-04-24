@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cb0cfcc-6633-4423-ba29-a64173759dd9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ammK6A8n9EstVMiHxnrXdEbA1W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.BP_neural_network">
+    <configuration name="BP_neural_network" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BP_neural_network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Decision_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Decision_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Support_vector_Machines (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Support_vector_Machines.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Support_vector_Machines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\User\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\Documents\大学\QG中期考核\code\Support_vector_Machines.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.BP_neural_network" />
+        <item itemvalue="Python.Support_vector_Machines (1)" />
+        <item itemvalue="Python.Decision_tree" />
+        <item itemvalue="Python.Support_vector_Machines" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cb0cfcc-6633-4423-ba29-a64173759dd9" name="Default Changelist" comment="" />
+      <created>1587349076249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587349076249</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="351" y="0" key="#SVM" timestamp="1587372134182">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="0" key="#SVM/0.0.1280.680@0.0.1280.680" timestamp="1587372134182" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587349279827">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1587349279827" />
+    <state x="396" y="43" width="745" height="595" key="#xdebugger.evaluate" timestamp="1587580294453">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="43" width="745" height="595" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1587580294453" />
+    <state width="695" height="466" key="DebuggerActiveHint" timestamp="1587579140629">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="695" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1587579140629" />
+    <state width="1237" height="183" key="GridCell.Tab.0.bottom" timestamp="1587723652849">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="183" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587723652849" />
+    <state width="1237" height="183" key="GridCell.Tab.0.center" timestamp="1587723652848">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="183" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587723652848" />
+    <state width="1237" height="183" key="GridCell.Tab.0.left" timestamp="1587723652848">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="183" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587723652848" />
+    <state width="1237" height="183" key="GridCell.Tab.0.right" timestamp="1587723652848">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="183" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587723652848" />
+    <state width="1237" height="183" key="GridCell.Tab.1.bottom" timestamp="1587723652849">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="183" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587723652849" />
+    <state width="1237" height="183" key="GridCell.Tab.1.center" timestamp="1587723652849">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="183" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1587723652849" />
+    <state width="1237" height="183" key="GridCell.Tab.1.left" timestamp="1587723652849">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="183" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1587723652849" />
+    <state width="1237" height="183" key="GridCell.Tab.1.right" timestamp="1587723652849">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="183" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1587723652849" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1587372586877">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587372586877" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1587677912424">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587677912424" />
+    <state x="206" y="77" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587703338254">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="206" y="77" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1587703338254" />
+    <state x="-16" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587720224810">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-16" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587720224810" />
+  </component>
+</project>
